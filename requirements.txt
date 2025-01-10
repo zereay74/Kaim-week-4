@@ -1,9 +1,11 @@
+os
+sys
 pandas
+psycopg2
+dotenv
+sqlalchemy
 numpy
+scipy
 matplotlib
-scikit-learn
-shap
-joblib
-tensorflow
 seaborn
 logging
