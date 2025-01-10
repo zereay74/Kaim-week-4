@@ -1,5 +1,3 @@
-os
-sys
 pandas
 psycopg2
 dotenv
