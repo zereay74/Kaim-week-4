@@ -1,8 +1,8 @@
 pandas
-psycopg2
-sqlalchemy
 numpy
-scipy
 matplotlib
 seaborn
-logging
+scikit-learn
+xgboost
+tensorflow
+keras
